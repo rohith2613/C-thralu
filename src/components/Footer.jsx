@@ -29,7 +29,7 @@ const Footer = () => {
                     <a href="#" target='_blank' rel='noreferer' className="hover:underline">Contact</a>
                 </li>
             </ul>
-            <h3 className='text-xl dark:text-white'>Gmail: rohithsriramula2613@gmail.com</h3>
+            <h3 className='text-xl dark:text-white'>Gmail: rohiths2613@gmail.com</h3>
         </div>
         <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
         <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2030 <Link to="/" className="hover:underline">Cthralu™</Link>. All Rights Reserved.</span>
